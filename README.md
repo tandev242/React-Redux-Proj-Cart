@@ -1,2 +1,2 @@
-# React-Redux-Proj-Cart
- Learning React-Redux by tandev2k
+# ReactJS-Proj-ColorPicker
+ My first React project 
